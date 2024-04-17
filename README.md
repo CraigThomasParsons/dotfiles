@@ -11,11 +11,5 @@
 ### List of things I want to theme
 ### Using https://draculatheme.com/
 
-1. Ranger
-2. Rofi
-3. Xresources
+1. Mutt
 4. Oh My Posh
-5. Zsh
-6. i3
-7. i3lock-color
-8. Steam

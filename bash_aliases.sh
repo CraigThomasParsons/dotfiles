@@ -1,13 +1,8 @@
 #!/bin/bash
 
-# Interactive operation...
-#alias rm='rm -i'
-#alias cp='cp -i'
-#alias mv='mv -i'
-
 # Default to human readable figures
-#alias df='df -h'
-#alias du='du -h'
+alias df='df -h'
+alias du='du -h'
 
 # Some shortcuts for different directory listings
 alias dir='ls --color=auto --format=vertical'

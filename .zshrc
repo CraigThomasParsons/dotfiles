@@ -11,7 +11,7 @@ compinit
 # enable fzf with default options
 export FZF_BASE=/usr/bin/fzf
 
-export FZF_DEFAULT_OPTS="--height 40% --layout=reverse --border=sharp --color='bg:237,bg+:236,info:143,border:240,spinner:108,hl:65,fg:252,header:65,fg+:252,pointer:161,marker:168,prompt:110,hl+:108' --tabstop=2"
+export FZF_DEFAULT_OPTS='--height 40% --layout=reverse --border=sharp --color=fg:#f8f8f2,bg:#282a36,hl:#bd93f9 --color=fg+:#f8f8f2,bg+:#44475a,hl+:#bd93f9 --color=info:#ffb86c,prompt:#50fa7b,pointer:#ff79c6 --color=marker:#ff79c6,spinner:#ffb86c,header:#6272a4'
 
 export FZF_DEFAULT_COMMAND='ag --hidden --smart-case -l -g ""'
 
